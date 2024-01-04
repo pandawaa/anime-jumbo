@@ -4,7 +4,6 @@
   <br />
       <a href="https://anime-jumbo.vercel.app/ target="_blank"></a>
       <img src="https://github.com/pandawaa/anime-jumbo/blob/main/app/home_page.png">
-      <img src="https://github.com/pandawaa/anime-jumbo/blob/main/app/home_page.png">
     </a>
   <br />
   <div>
